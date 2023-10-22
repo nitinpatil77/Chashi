@@ -159,5 +159,6 @@ section.about-us{
 }
 .shape-4{
     bottom: 0;
-    right: -300px;
+    right: 0;
+    z-index: -1;
 }
