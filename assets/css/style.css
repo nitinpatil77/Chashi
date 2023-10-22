@@ -162,3 +162,11 @@ section.about-us{
     right: 0;
     z-index: -1;
 }
+/* footer css */
+.footer-bg{
+    background: url('../img/footer-top-bg.png') center no-repeat;
+    background-blend-mode: overlay;
+    background-color: #0f1b28;
+    padding: 110px 0px 0px;
+    
+}
